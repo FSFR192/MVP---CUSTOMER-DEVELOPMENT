@@ -71,8 +71,3 @@ Este sistema integral está diseñado para garantizar la integridad y la segurid
 
 ![Cheat Log Dashboard](readme-images/cheat-log-dashboard.png)
 
-
-
-## Contributors
-
-- [Mohd Zubair](https://github.com/mohdzubairshafi)
